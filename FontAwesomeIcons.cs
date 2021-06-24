@@ -111,15 +111,6 @@ namespace FontAwesome
         public const string Adn = "\uf170";
 
         /// <summary>
-        /// fa-adobe unicode value ("\uf778").
-        /// <para/>
-        /// This icon supports the following styles: Brands
-        /// <para/>
-        /// See https://fontawesome.com/icons/adobe
-        /// </summary>
-        public const string Adobe = "\uf778";
-
-        /// <summary>
         /// fa-adversal unicode value ("\uf36a").
         /// <para/>
         /// This icon supports the following styles: Brands
@@ -4249,6 +4240,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/cloud-upload-alt
         /// </summary>
         public const string CloudUploadAlt = "\uf382";
+
+        /// <summary>
+        /// fa-cloudflare unicode value ("\ue07d").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/cloudflare
+        /// </summary>
+        public const string Cloudflare = "\ue07d";
 
         /// <summary>
         /// fa-clouds unicode value ("\uf744").
@@ -8715,6 +8715,15 @@ namespace FontAwesome
         public const string Grunt = "\uf3ad";
 
         /// <summary>
+        /// fa-guilded unicode value ("\ue07e").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/guilded
+        /// </summary>
+        public const string Guilded = "\ue07e";
+
+        /// <summary>
         /// fa-guitar unicode value ("\uf7a6").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -9507,6 +9516,15 @@ namespace FontAwesome
         public const string History = "\uf1da";
 
         /// <summary>
+        /// fa-hive unicode value ("\ue07f").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/hive
+        /// </summary>
+        public const string Hive = "\ue07f";
+
+        /// <summary>
         /// fa-hockey-mask unicode value ("\uf6ee").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -10137,6 +10155,15 @@ namespace FontAwesome
         public const string Inhaler = "\uf5f9";
 
         /// <summary>
+        /// fa-innosoft unicode value ("\ue080").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/innosoft
+        /// </summary>
+        public const string Innosoft = "\ue080";
+
+        /// <summary>
         /// fa-instagram unicode value ("\uf16d").
         /// <para/>
         /// This icon supports the following styles: Brands
@@ -10153,6 +10180,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/instagram-square
         /// </summary>
         public const string InstagramSquare = "\ue055";
+
+        /// <summary>
+        /// fa-instalod unicode value ("\ue081").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/instalod
+        /// </summary>
+        public const string Instalod = "\ue081";
 
         /// <summary>
         /// fa-integral unicode value ("\uf667").
@@ -12531,6 +12567,15 @@ namespace FontAwesome
         public const string Octagon = "\uf306";
 
         /// <summary>
+        /// fa-octopus-deploy unicode value ("\ue082").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/octopus-deploy
+        /// </summary>
+        public const string OctopusDeploy = "\ue082";
+
+        /// <summary>
         /// fa-odnoklassniki unicode value ("\uf263").
         /// <para/>
         /// This icon supports the following styles: Brands
@@ -13114,6 +13159,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/pepper-hot
         /// </summary>
         public const string PepperHot = "\uf816";
+
+        /// <summary>
+        /// fa-perbyte unicode value ("\ue083").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/perbyte
+        /// </summary>
+        public const string Perbyte = "\ue083";
 
         /// <summary>
         /// fa-percent unicode value ("\uf295").
@@ -18930,6 +18984,15 @@ namespace FontAwesome
         public const string UmbrellaBeach = "\uf5ca";
 
         /// <summary>
+        /// fa-uncharted unicode value ("\ue084").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/uncharted
+        /// </summary>
+        public const string Uncharted = "\ue084";
+
+        /// <summary>
         /// fa-underline unicode value ("\uf0cd").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -19614,6 +19677,24 @@ namespace FontAwesome
         public const string VenusMars = "\uf228";
 
         /// <summary>
+        /// fa-vest unicode value ("\ue085").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/vest
+        /// </summary>
+        public const string Vest = "\ue085";
+
+        /// <summary>
+        /// fa-vest-patches unicode value ("\ue086").
+        /// <para/>
+        /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
+        /// <para/>
+        /// See https://fontawesome.com/icons/vest-patches
+        /// </summary>
+        public const string VestPatches = "\ue086";
+
+        /// <summary>
         /// fa-vhs unicode value ("\uf8ec").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid (Pro), Duotone (Pro)
@@ -20037,6 +20118,15 @@ namespace FontAwesome
         public const string WatchFitness = "\uf63e";
 
         /// <summary>
+        /// fa-watchman-monitoring unicode value ("\ue087").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/watchman-monitoring
+        /// </summary>
+        public const string WatchmanMonitoring = "\ue087";
+
+        /// <summary>
         /// fa-water unicode value ("\uf773").
         /// <para/>
         /// This icon supports the following styles: Light (Pro), Regular (Pro), Solid, Duotone (Pro)
@@ -20449,6 +20539,15 @@ namespace FontAwesome
         /// See https://fontawesome.com/icons/wizards-of-the-coast
         /// </summary>
         public const string WizardsOfTheCoast = "\uf730";
+
+        /// <summary>
+        /// fa-wodu unicode value ("\ue088").
+        /// <para/>
+        /// This icon supports the following styles: Brands
+        /// <para/>
+        /// See https://fontawesome.com/icons/wodu
+        /// </summary>
+        public const string Wodu = "\ue088";
 
         /// <summary>
         /// fa-wolf-pack-battalion unicode value ("\uf514").
