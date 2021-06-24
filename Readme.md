@@ -22,6 +22,11 @@ submitButton.Text = FontAwesome.FontAwesomeIcons.Check;
 
 The end result is cleaner, more readable and more maintainable code.
 
+# Build
+- Clone project
+- Build and Run, the app will auto get data from cheatsheet "https://fontawesome.com/cheatsheet"; and generate FontAwesomeIcons.cs
+- After runnning the project, it will open the ExportPath Folder for you to use
+
 # Using FontAwesome To C#
 
 It's super easy to use FontAwesome To C#!
